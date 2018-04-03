@@ -8,5 +8,6 @@ public class RectangleAksi {
             r1.lebar = 3;
             
             r1.cetakinfo();
+            System.out.println("Luasnya adalah : "+r1.hitungluas());
     }
 }
